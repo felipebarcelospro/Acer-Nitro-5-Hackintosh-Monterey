@@ -2,7 +2,7 @@
 
 If you loved my work, bestow it with a ⭐
 
-[![Preview](snap.png)](https://github.com/afkniladri/Acer-Nitro5-Hackintosh-OC/)
+[![Preview](cover.png)](https://github.com/felipebarcelospro/Acer-Nitro-5-Hackintosh-Monterey/cover.png)
 
 # macOS Monterey : version 12.0.1
 
