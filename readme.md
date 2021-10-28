@@ -30,6 +30,6 @@ The project was made from scratch with the help of [Opencore - Dortania Guide](h
 - **Touchpad Gestures** Works perfectly
 - **Sound** Works perfectly.
 - **Wireless** Works perfectly.
-- **Bluetooth** Works perfectly.
+- **Bluetooth** Not Working.
 - **HDMI** Won't work, since the port is hardwired to the dGpu (disabled). Maybe with Adater.
 - **Everything else works** 
